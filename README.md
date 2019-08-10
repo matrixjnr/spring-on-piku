@@ -1,4 +1,4 @@
-# spark-basic-structure
+# Sping Boot on Piku
 Java on Piku Micro PaaS
 
 Deploying Spring Boot Application on Piku 
