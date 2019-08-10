@@ -1,13 +1,13 @@
 # spark-basic-structure
-Java on Piku Micro PaaS on Ubuntu 18 and Linux Mint 19
-This is an example of one possible way of structuring a Spring application.
+Java on Piku Micro PaaS
 
-This is a simple Java app that demonstrates deploying your apps on Piku.
+Deploying Spring Boot Application on Piku 
+
 
 To publish this app to `piku`, make a copy of this folder and run the following commands:
 
 ```bash
-cd Spring
+cd spring-on-piku
 git init .
 git remote add piku piku@your_server:spring
 git add .
